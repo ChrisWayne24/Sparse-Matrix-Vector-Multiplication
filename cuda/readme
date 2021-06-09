@@ -1,0 +1,5 @@
+1. Compile code by using make command.
+2. Run cu.sh on cluster with sbatch cu.sh command
+but make sure to change file paths in the .sh file for output files
+to be saved correctly.
+3. Input filenames (arg 5) can be altered in the cu.sh file.

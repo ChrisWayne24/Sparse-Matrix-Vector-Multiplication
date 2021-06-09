@@ -1,0 +1,5 @@
+1. Compile code by using make command.
+2. Run test.sh on cluster with sbatch test.sh command
+but make sure to change file paths in the .sh file for output files
+to be saved correctly. Filenames (arg 4) for input can be altered in the .sh
+file.

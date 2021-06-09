@@ -1,0 +1,11 @@
+------------------------------------------------------
+Job is running on node  mscluster[16,18]------------------------------------------------------
+SLURM: sbatch is running on mscluster0.ms.wits.ac.za
+SLURM: job ID is 79435
+SLURM: submit directory is /home-mscluster/cpillay
+SLURM: number of nodes allocated is 2
+SLURM: number of cores is 8
+SLURM: job name is mpi
+------------------------------------------------------
+
+MPI Run time:  1.5350 ms
